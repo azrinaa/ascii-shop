@@ -36,10 +36,10 @@ FAQ
 
 ### How do I start the app?
 
-•	Start with `yarn` or `npm install` to install project dependencies
-•	Secondly, run `yarn json:server` or `npm run-script json:server` to start the server.
-•	On the different terminal, run `yarn tunnel:server` or `npm run-script tunnel:server` to allow Expo on mobile  access the mock server running on my laptop (development machine).
-•	Open another terminal and run `npm start` to launch app on Expo Go.
+- 	Start with `yarn` or `npm install` to install project dependencies
+- 	Secondly, run `yarn json:server` or `npm run-script json:server` to start the server.
+- 	On the different terminal, run `yarn tunnel:server` or `npm run-script tunnel:server` to allow Expo on mobile  access the mock server running on my laptop (development machine).
+- 	Open another terminal and run `npm start` to launch app on Expo Go.
 
 ### What about sort order (ascending / descending)?
 
